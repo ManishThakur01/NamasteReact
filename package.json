@@ -1,0 +1,23 @@
+{
+  "name": "namastereact",
+  "version": "1.0.0",
+  "description": "c",
+  "main": "index.js",
+  "scripts": {
+    "test": "Jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ManishThakur01/NamasteReact.git"
+  },
+  "keywords": [],
+  "author": "Manish Thakur",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ManishThakur01/NamasteReact/issues"
+  },
+  "homepage": "https://github.com/ManishThakur01/NamasteReact#readme",
+  "devDependencies": {
+    "parcel": "^2.9.3"
+  }
+}
